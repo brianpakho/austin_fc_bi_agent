@@ -7,6 +7,10 @@ This is a proof-of-concept to show how an AI agent with access to internal data 
 - Scheduled morning updates after home matches  
 - Responses for any BI question powered by Azure/Databricks data
 
+## Demo
+
+[![Watch the Slack AI Agent Demo](https://img.youtube.com/vi/g0hSrnGYuWM/0.jpg)](https://youtu.be/g0hSrnGYuWM)
+
 ## Requirements
 
 ```bash
